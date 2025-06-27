@@ -1,0 +1,5 @@
+user_id,user_name,skills,current_tasks
+1,Alice,"['communication', 'planning']",5033
+2,Bob,"['coding', 'automation']",5033
+3,Charlie,"['writing', 'organization']",5033
+4,David,"['data entry', 'attention']",5033
